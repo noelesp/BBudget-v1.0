@@ -1,0 +1,58 @@
+body
+{
+
+font-size: 14px;
+background: #F0F0F0;
+
+
+
+
+}
+
+#content {
+
+
+text-align: left; 
+width: 300px; 
+height: 200px; 
+background: #F8F8F8;
+padding: 50px; 
+margin: 50px auto; 
+}
+
+.btn
+{
+
+font-size: 15px;
+
+}
+
+text, submit, label
+{
+
+font-size: 16px;
+
+}
+label
+{
+
+padding: 10px;
+color: #707070;
+
+
+}
+#info, #title
+{
+
+color: #880000;
+text-align: right;
+
+
+}
+#notice
+{
+text-align: center;
+
+
+}
+

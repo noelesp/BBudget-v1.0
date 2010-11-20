@@ -1,0 +1,143 @@
+﻿
+label, input {
+
+
+font-size: 14px;
+width:100px;
+
+
+
+
+}
+
+.tbmain{ 
+ /* Changes on the form */
+ background: url(style1_bg.gif) #ffffff top repeat-x !important; 
+}
+.left{
+  /* Changes on the form */
+  color: #ff5200 !important; 
+  font-family: Trebuchet MS !important;
+  font-size: 11px !important;
+}
+td.left {
+   font-family: "Trebuchet MS";
+   font-size: 11px;
+   font-weight:bold;
+   color:#ff5200;
+   vertical-align: top;
+   text-align: left;
+}
+.pagebreak{
+   font-family: "Trebuchet MS";
+   font-size: 11px;
+   font-weight:bold;
+   color:black;
+}
+td.right {
+   font-family: "Trebuchet MS";
+   font-size: 11px;
+   font-weight:normal;
+   color:#333333;
+   vertical-align: top;   
+   text-align: left;   
+}
+.tbmain{
+   height:100%;
+   color:#333333;
+   background:url(style1_bg.gif) #ffffff top repeat-x;
+}
+.head{
+   font-family: "Trebuchet MS";
+   font-size: large;
+   font-weight: bold;
+   color:#ff5200;
+   vertical-align: top;
+   text-align: left;
+}
+.notvalid{
+   border:2px red solid;
+   font-family:"Trebuchet MS";
+}
+.text{
+   font-family: "Trebuchet MS";
+   font-size: 16px;
+   font-weight:normal;
+   color:#333333;
+   border:1px #cccccc solid;
+   background:url() #f6f6f6 top repeat-x;
+}
+select.other{
+   font-family: "Trebuchet MS";
+   font-size: 16px;
+   font-weight:normal;
+   color:#333333;
+   border:1px #cccccc solid;
+   background:url() #f6f6f6 top repeat-x;
+}
+
+span.required{
+  font-size: 13px !important;
+  color: red !important;
+}
+ 
+
+.pageinfo{
+    padding-right:5px;
+    margin-bottom:15px;
+    float:left;
+
+	}
+	
+#foo 
+{
+
+background: #fff6bf url(attention.png) center no-repeat;
+	background-position: 15px 50%; /* x-pos y-pos */
+	height: 35px; width: 200px;
+	text-align: left;
+	padding: 10px 20px 5px 45px;
+	border-top: 2px solid #ffd324;
+	border-bottom: 2px solid #ffd324;
+	visibility: hidden;
+	
+	
+	
+}
+#n, #f, #d, #a, #n, #s, #v, #chk
+{
+
+color: red;
+padding: 5px;
+font-weight: bold;
+
+
+
+
+}
+
+select 
+{
+  font-family: "Trebuchet MS";
+   font-size: 16px;
+   font-weight:normal;
+}
+
+.btn
+{
+
+font-size: 20px;
+
+
+}
+.money
+{
+
+color: green;
+font-size: 16px;
+font-weight: bold;
+text-indent: 20px;
+
+
+}
+

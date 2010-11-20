@@ -1,0 +1,48 @@
+﻿body 
+{
+	
+ background: url(css/style1_bg.gif) #ffffff top repeat-x !important; 
+
+}
+
+#content
+{
+
+width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+
+
+}
+table 
+{ 
+
+background: white;
+width:100%; 
+border-top:1px solid #e5eff8; 
+border-right:1px solid #e5eff8; 
+
+margin:1em auto; 
+border-collapse:collapse; 
+} 
+
+td { 
+color:#0F4880; 
+border-bottom:1px solid #e5eff8; 
+border-left:1px solid #e5eff8; 
+padding:.3em 1em; 
+
+} 
+p{font-family:"Times New Roman", Times, serif;} 
+
+#results
+{
+
+text-align: left;
+color: #2E5CB8;
+
+width: 300px;
+margin-left: auto ;
+  margin-right: auto ;
+
+}

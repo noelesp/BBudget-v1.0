@@ -5,7 +5,7 @@
 // Adds information to bbudet_inc database after it checks all information is valid
 // 
 //
-// (C)2010 Noel Espinales All Rights Reserved.
+// (C)2010 noelesp All Rights Reserved.
 
 
 

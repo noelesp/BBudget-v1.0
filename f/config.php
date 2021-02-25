@@ -4,7 +4,7 @@
 // Database Connectiong String
 // 
 //
-// (C)2010 Noel Espinales All Rights Reserved.
+// (C)2010 noelesp All Rights Reserved.
 
 $host = 'DATABASE URL';
 $dbuser = 'DATABASE USERNAME';

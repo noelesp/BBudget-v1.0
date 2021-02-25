@@ -5,7 +5,7 @@
 // Contains reusable snippets of codes and functions
 // 
 //
-// (C)2010 Noel Espinales All Rights Reserved.
+// (C)2010 noelesp All Rights Reserved.
 
 
 

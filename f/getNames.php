@@ -6,7 +6,7 @@
 // Looks up names and outputs the name to a select field.
 // 
 //
-// (C)2010 Noel Espinales All Rights Reserved.
+// (C)2010 noelesp All Rights Reserved.
 
   
     // Include configuration and open database
